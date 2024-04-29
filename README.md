@@ -34,6 +34,6 @@ Creating and utilizing an Active Directory (AD) lab for simulating MITRE attack 
 
 <img src="https://github.com/Rapheal93/Active-Directory-Lab/assets/37610656/1cc3bcb0-7446-413e-ab9d-33d4b742f5e3" />
 
-# we can confirm our attack was detected by our Splunk machine.
+# we can confirm our attack was detected by our Splunk machine by editing our search to include event_id = 4720. Which looks for user account creations in the logs.
 
 <img src="https://github.com/Rapheal93/Active-Directory-Lab/assets/37610656/89d2a930-a327-42c2-853c-66b981810504" />
